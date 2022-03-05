@@ -18,7 +18,7 @@ chmod +x ngrok
 Open ngrok.com
 Sign-up
 
-./ngrok authtoken 25sW3Awudns8IJusl6NqIqkC02m_3MbVv66mncAoiHaRkqML2
+./ngrok authtoken ( Your authtoken here )
 
 ./ngrok help
 
